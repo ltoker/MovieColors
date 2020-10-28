@@ -2,7 +2,6 @@ BiocManager::install("devtools")
 library(devtools)
 
 source_url("https://github.com/ltoker/GeneralRscripts/blob/main/generalFunc.R?raw=T")
-packageF("tidyr")
 packageF("Hmisc")
 
 
