@@ -99,6 +99,6 @@ MoviePalettes$BugsLife <- c("#1D1D1D", "#5379AA", "#82B3C1",
 
 
 
-saveRDS(MoviePalettes, "ColorsJPG/MoviePalettes.Rds")
+saveRDS(MoviePalettes, "MoviePalettes.Rds")
 
 
