@@ -1,8 +1,8 @@
-# BiocManager::install("devtools")
-# library(devtools)
-# 
-# source_url("https://github.com/ltoker/GeneralRscripts/blob/main/generalFunc.R?raw=T")
-# packageF("Hmisc")
+BiocManager::install("devtools")
+library(devtools)
+
+source_url("https://github.com/ltoker/GeneralRscripts/blob/main/generalFunc.R?raw=T")
+packageF("Hmisc")
 
 
 get_colorPal <- function(im, n=400, cs="RGB"){
